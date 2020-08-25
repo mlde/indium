@@ -1,0 +1,2 @@
+# indium
+icon theme
